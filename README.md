@@ -8,7 +8,7 @@
 Projeto desenvolvido como desafio do Bootcamp DIO que simula uma tela de login com validação.
 
 ### 🎨 Layout
-<img src="">
+<img src="https://github.com/user-attachments/assets/514ccfac-4fff-4d42-b15e-5597fc5d7141">
 
 ### ✔️ Tecnologias utilizadas
 - Visual Studio Code
@@ -16,4 +16,4 @@ Projeto desenvolvido como desafio do Bootcamp DIO que simula uma tela de login c
 - Typescript
 
 ### 📁 Acesso ao projeto
-Hospedado no Netlify ``
+Hospedado no Netlify `https://logintypescript-deboradrf.netlify.app`
