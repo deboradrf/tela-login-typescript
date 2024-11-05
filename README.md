@@ -1,4 +1,4 @@
-<h1 align="center">Plataforma DIO</h1>
+<h1 align="center">Tela Login</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green?style=plastic">
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
